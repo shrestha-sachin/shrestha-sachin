@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Sachin Shrestha</h1>
+   <h1 align="center">Hi there 👋, I'm Sachin Shrestha</h1>
 <h3 align="center">🚀 Software Developer | 💡 AI & Automation Enthusiast | 🎨 UX Designer</h3>
 
 <p align="center">
@@ -47,7 +47,7 @@
 
 ### 🧠 LeetCode Stats
 
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=sachin-shrestha&theme=dark)](https://leetcode.com/your-leetcode-username)
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=sachin-shrestha&theme=dark)](https://leetcode.com/sachin-shrestha)
 
 ---
 
