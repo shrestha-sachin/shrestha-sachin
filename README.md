@@ -12,7 +12,7 @@
 
 ### 🌐 Portfolio
 🔗 Explore my projects and experience:  
-**[👉 sachin-shrestha.com](https://sachin-shrestha.com)**
+**[👉 sachinshrestha.com](https://sachinshrestha.com)**
 
 ---
 
@@ -72,7 +72,7 @@
 ### 📝 Blog & Articles
 
 *Coming soon!*  
-📖 Stay tuned for my articles at [**blog.sachin-shrestha.com**](https://blog.sachin-shrestha.com)
+📖 Stay tuned for my articles at [**blog.sachinshrestha.com**](https://blog.sachinshrestha.com)
 
 ---
 
@@ -80,7 +80,7 @@
 
 - 📧 Email: [sachinstha600@gmail.com](mailto:sachinstha600@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/sachin-stha](https://linkedin.com/in/sachin-stha)  
-- 🧪 Portfolio: [sachin-shrestha.com](https://sachin-shrestha.com)
+- 🧪 Portfolio: [sachinshrestha.com](https://sachinshrestha.com)
 
 ---
 
