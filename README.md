@@ -39,7 +39,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shrestha-sachin&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=shrestha-sachin&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=shrestha-sachin&theme=tokyonight" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrestha-sachin&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
