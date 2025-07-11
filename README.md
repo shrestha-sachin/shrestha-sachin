@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Software Developer | 💡 AI & Automation Enthusiast | 🎨 UX Designer</h3>
 
 <p align="center">
-  <a href="https://sachin-shrestha.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%F0%9F%93%8C-blue?style=flat-square"></a>
+  <a href="https://sachinshrestha.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%F0%9F%93%8C-blue?style=flat-square"></a>
   <a href="mailto:sachinstha600@gmail.com"><img src="https://img.shields.io/badge/Email-%F0%9F%93%A7-red?style=flat-square"></a>
   <a href="https://linkedin.com/in/sachin-stha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%F0%9F%91%A5-blue?style=flat-square&logo=linkedin"></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sachinshrestha.sachinshrestha" alt="visitor badge"/>
