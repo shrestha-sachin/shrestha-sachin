@@ -12,7 +12,8 @@
 
 ### 🌐 Portfolio
 🔗 Explore my projects and experience:  
-**[👉 sachinshrestha.com](https://sachinshrestha.com)**
+[![Portfolio Preview](https://github.com/user-attachments/assets/56b52dc3-df36-4ecf-a3f4-3000a4248765)](https://sachinshrestha.com)
+
 
 ---
 
