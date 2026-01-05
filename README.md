@@ -79,7 +79,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="20"/> LinkedIn
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/sachinshrestha">
+  <a href="https://www.instagram.com/sachin_shrestha__">
     <img src="https://skillicons.dev/icons?i=instagram" height="20"/> Instagram
   </a>
 </p>
