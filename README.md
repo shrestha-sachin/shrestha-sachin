@@ -10,15 +10,21 @@
 
 ---
 
-### 🌐 Portfolio
-🔗 Explore my projects and experience:  
+### 🌐 Portfolio 
 [![Portfolio Preview](https://github.com/user-attachments/assets/56b52dc3-df36-4ecf-a3f4-3000a4248765)](https://sachinshrestha.com)
 
 
 ---
 
 ### 💻 Tech Stack & Tools
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,r,c,react,remix,nextjs,nodejs,npm,tailwind,bootstrap,git,sqlite,latex,vscode,docker,figma,ps,pr)](https://skillicons.dev)
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=py,js,html,css,r,c,react,nextjs,nodejs,npm,tailwind,bootstrap,git,sqlite,latex,vscode,docker,figma,ps,pr&perline=20"
+    alt="Tech Stack"
+  />
+</p>
+
+
 
 ---
 
@@ -64,9 +70,21 @@
 ---
 
 ### 🌐 Connect with Me
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sachinstha600@gmail.com)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/sachin-stha)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/sachinshrestha)
+<p align="center">
+  <a href="mailto:sachinstha600@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="20"/> Gmail
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/sachin-stha">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="20"/> LinkedIn
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/sachinshrestha">
+    <img src="https://skillicons.dev/icons?i=instagram" height="20"/> Instagram
+  </a>
+</p>
+
+
 
 ---
 
