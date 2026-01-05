@@ -1,5 +1,5 @@
    <h1 align="center">Hi there 👋, I'm Sachin Shrestha</h1>
-<h3 align="center">🚀 Software Developer | 💡 AI & Automation Enthusiast | 🎨 UX Designer</h3>
+<h3 align="center"> Software Developer | AI & Automation Enthusiast </h3>
 
 <p align="center">
   <a href="https://sachinshrestha.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%F0%9F%93%8C-blue?style=flat-square"></a>
@@ -16,22 +16,8 @@
 
 ---
 
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/>   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django"/>   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask"/>   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>   
-</p>
+### 💻 Tech Stack & Tools
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,r,c,react,remix,nextjs,nodejs,npm,tailwind,bootstrap,git,sqlite,latex,vscode,docker,figma,ps,pr)](https://skillicons.dev)
 
 ---
 
@@ -76,11 +62,10 @@
 
 ---
 
-### 📫 Reach Me
-
-- 📧 Email: [sachinstha600@gmail.com](mailto:sachinstha600@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/sachin-stha](https://linkedin.com/in/sachin-stha)  
-- 🧪 Portfolio: [sachinshrestha.com](https://sachinshrestha.com)
+### 🌐 Connect with Me
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sachinstha600@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/sachin-stha)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/sachinshrestha)
 
 ---
 
